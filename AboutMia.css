@@ -16,7 +16,7 @@ li {float: left;}
 li a {display: block;
     color: white;
     text-align: center;
-    padding: 10px 10px;
+    padding:px 10px;
     text-decoration: none;}
 li a:hover {background-color: goldenrod;}
 .active {background-color: darkgoldenrod;}
