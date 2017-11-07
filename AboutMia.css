@@ -1,10 +1,14 @@
 body {color:black;
     background-color:lightgrey;
     font-family: fantasy;
-    font-size: 14px;
-    border:6px solid black}
+    font-size: 25px;
+    border:6px solid black;}
 a {color:darkgoldenrod}
-h1 {color:black}
+h1 {color:black;
+    text-align:center;
+    padding-top: 70;
+    font-size:70;
+    text-decoration:underline;}
 li a {display: block;
     width: 100px}
 ul {list-style-type: none;
@@ -16,7 +20,7 @@ li {float: left;}
 li a {display: block;
     color: white;
     text-align: center;
-    padding:px 10px;
-    text-decoration: none;}
+    padding:10px 10px;
+    text-decoration: none;
+    width:250;}
 li a:hover {background-color: goldenrod;}
-.active {background-color: darkgoldenrod;}
