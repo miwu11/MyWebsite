@@ -8,7 +8,7 @@ $('#c').mousedown(function(){
 var dNote = document.getElementById('dAudio');
 
 $('#d').mousedown(function(){
-    deleteNote.currentTime = 0;
+    dNote.currentTime = 0;
     dNote.play();
 });
 
