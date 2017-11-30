@@ -1,6 +1,6 @@
 body {color:black;
     background-color:lightgrey;
-    font-family: fantasy;
+    font-family: inherit monospace;
     font-size: 25px;
     border:6px solid black;}
 a {color:darkgoldenrod}
@@ -20,7 +20,7 @@ li {float: left;}
 li a {display: block;
     color: white;
     text-align: center;
-    padding:10px 10px;
+    padding:10px 5px;
     text-decoration: none;
-    width:250;}
+    width:205;}
 li a:hover {background-color: goldenrod;}
